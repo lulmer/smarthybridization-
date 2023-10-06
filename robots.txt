@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lulmer.github.io/al-folio/sitemap.xml
+Sitemap: https://lulmer.github.io/smarthybridization-/sitemap.xml
